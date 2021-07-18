@@ -70,7 +70,8 @@ The source folder and code are in the same location so that it is easy to read f
 #### Global Variables
 ![files to save/load](https://github.com/WilliamBHW/Election_Analysis/blob/main/Resources/file_to_change.png)
 ![global](https://github.com/WilliamBHW/Election_Analysis/blob/main/Resources/county_setup.png)
-These global variables can be refered to different locations by simply chasnging its pointer.
+<br>
+These global variables can be refered to different locations by simply changing its pointer.
 
 <br>
 
