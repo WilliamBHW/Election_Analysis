@@ -78,7 +78,7 @@ with open(file_to_load) as election_data:
         # 5: Add a vote to that county's vote count.
         county_votes[county_name] += 1
 
-# Close election data  after data collection
+# Close election data after data collection
 election_data.close()
 
 # Save the results to our text file.
@@ -162,5 +162,5 @@ with open(file_to_save, "w") as txt_file:
 
     # Save the winning candidate's name to the text file
     txt_file.write(winning_candidate_summary)
-# Close tct file when finished writing
+# Close txt file when finished writing
 txt_file.close()
