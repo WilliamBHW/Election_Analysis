@@ -43,21 +43,21 @@ The analysis of election show that:
   - Denver
   - Arapahoe
 - The county result were:
-  - Jefferson recieved '10.5%' of the turnout and '38,855' number of turnouts.
-  - Denver recieved '82.8%' of the turnout and '306,055' number of turnouts.
-  - C3 recieved "x%" of the turnout and "y" number of turnouts.
-- The largest county was:
-  - C , who recieved "x%" of the turnout and "y" number of turnouts.
+  - Jefferson recieved 10.5% of the turnout and 38,855 number of turnouts.
+  - Denver recieved 82.8% of the turnout and 306,055 number of turnouts.
+  - Arapahoe recieved 6.7% of the turnout and 24,801 number of turnouts.
+- The county with largest turnout was:
+  - Denver , who recieved 82.8% of the turnout and 306,055 number of turnouts.
 - The candidates were:
-  - C1
-  - C2
-  - C3
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The candidate results were:
-  - C1 recieved "x%" of vote and "y" number of votes.
-  - C2 recieved "x%" of vote and "y" number of votes.
-  - C3 recieved "x%" of vote and "y" number of votes.
+  - Charles Casper Stockham recieved 23.0% of vote and 85,213 number of votes.
+  - Diana DeGette recieved 73.8% of vote and 272,892 number of votes.
+  - Raymon Anthony Doane recieved 3.1% of vote and 11,606 number of votes.
 - The winner of the election was:
-  - C , who recieved "x%" of vote and "y" number of votes.
+  - Diana DeGette , who recieved 73.8% of vote and 272,892 number of votes.
 
 ## Challenge Overview
 
