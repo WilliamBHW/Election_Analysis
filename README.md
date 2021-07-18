@@ -35,7 +35,7 @@ To facilitate the design process, programmers use pseudocode to create models or
 
 Pseudo means "fake," so pseudocode is essentially fake code. Pseudocode is an informal language that has no syntax rules and is not meant to be executed. The point of using pseudocode is to focus on the overall design of the program.
 
-## Summary
+## Election-Audit Results
 The analysis of election show that:
 - There were 369,711 votes cast in the election
 - The counties were:
@@ -59,6 +59,19 @@ The analysis of election show that:
 - The winner of the election was:
   - Diana DeGette , who recieved 73.8% of vote and 272,892 number of votes.
 
-## Challenge Overview
+## Election-Audit Summary
+The source folder and code are in the same location so that it is easy to read files from sources and make manipulations. Destination folder ("analysis") can be created in the same location which will compose destination files in assigned folder.
+This script uses universal/global variables to take record of elections data such as `candidate_options`, `county_options`, `candidate_votes`, `county_votes` etc. In the script, these variables are commonly used in the following criterias:
+- Record candidate names & county names
+- Record total votes
+- Record candidate votes & county turnout
+- Record realative winning candidate & county
+- Record relative percentages
 
-## Challenge Summary
+#### Global Variables
+![image of code]()
+
+<br>
+
+Local variables are used in for loop and conditional statements such that they are calculating data that will be saved into global records. (ex. `county_name`, `cvote`, `cvote_percent`)
+#### Local Variables
