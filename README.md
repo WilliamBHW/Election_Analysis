@@ -43,12 +43,22 @@ The analysis of election show that:
   - C2
   - C3
 - The county result were:
-  - C1 recieved "x%" of the turnout and "y" number of turnouts
-  - C2 recieved "x%" of the turnout and "y" number of turnouts
-  - C3 recieved "x%" of the turnout and "y" number of turnouts
+  - C1 recieved "x%" of the turnout and "y" number of turnouts.
+  - C2 recieved "x%" of the turnout and "y" number of turnouts.
+  - C3 recieved "x%" of the turnout and "y" number of turnouts.
 - The largest county was:
-  - C , who recieved "x%" of the turnout and "y" number of turnouts
+  - C , who recieved "x%" of the turnout and "y" number of turnouts.
 - The candidates were:
   - C1
   - C2
   - C3
+- The candidate results were:
+  - C1 recieved "x%" of vote and "y" number of votes.
+  - C2 recieved "x%" of vote and "y" number of votes.
+  - C3 recieved "x%" of vote and "y" number of votes.
+- The winner of the election was:
+  - C , who recieved "x%" of vote and "y" number of votes.
+
+## Challenge Overview
+
+## Challenge Summary
