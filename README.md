@@ -43,8 +43,8 @@ The analysis of election show that:
   - Denver
   - Arapahoe
 - The county result were:
-  - Jefferson recieved ***10.5%*** of the turnout and ***38,855*** number of turnouts.
-  - C2 recieved "x%" of the turnout and "y" number of turnouts.
+  - Jefferson recieved '10.5%' of the turnout and '38,855' number of turnouts.
+  - Denver recieved '82.8%' of the turnout and '306,055' number of turnouts.
   - C3 recieved "x%" of the turnout and "y" number of turnouts.
 - The largest county was:
   - C , who recieved "x%" of the turnout and "y" number of turnouts.
