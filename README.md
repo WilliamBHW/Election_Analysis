@@ -16,18 +16,6 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Data Source: election_results.csv
 - Software: Python 3.8.2, Visual Studio Code 1.58.2
 
-## Analysis and Challenges
-In this project, the final python cript will be expected to deliver the following information after a complete run:
-
-1. The total number of votes cast.
-2. A complete list of candidates who recieved votes.
-3. A complete list of county where voters turout.
-4. The percentage of vote each candidate won.
-5. The percentage of turnout each county has.
-6. The total number of votes each candidate won.
-7. The total number of turnout each county have.
-8. The county which has most turnout.
-
 ### Challenge Data Background
 > After giving you an overview of the election audit tasks, Tom wants to go over the steps required in detail. He's going to show you a technique commonly used by programmers to write steps of their code, which is called pseudocode. Pseudocode will make the audit easier to present to nontechnical colleagues and stakeholders.
 
@@ -71,11 +59,15 @@ The source folder and code are in the same location so that it is easy to read f
 ![files to save/load](https://github.com/WilliamBHW/Election_Analysis/blob/main/Resources/file_to_change.png)
 ![global](https://github.com/WilliamBHW/Election_Analysis/blob/main/Resources/county_setup.png)
 <br>
-These global variables can be refered to different locations by simply changing its pointer.
-
+These global variables can be refered to different locations by simply changing its pointer. These variables are being used here to take any data from calculations or assignments. Final values and result usually being stored in these global variables for future reference.
 <br>
 
-Local variables are used in for loop and conditional statements such that they are calculating data that will be saved into global records. (ex. `candidate_name`, `county_name`, `cvote`, `cvote_percent`)
+Local variables are used in for loop and conditional statements such that they are calculating data that will be saved into global variables. (ex. `candidate_name`, `county_name`, `cvote`, `cvote_percent`)
 #### Local Variables
 ![calculation](https://github.com/WilliamBHW/Election_Analysis/blob/main/Resources/county_main.png)
 ![messages](https://github.com/WilliamBHW/Election_Analysis/blob/main/Resources/modify.png)
+<br>
+These local variables inside functions are responsed for making calculations and record result of calculation, they are flexible with any calculation and assignment. For instance, `cvote_percent` is being assigned a formula which could be modified anyway user want it to be. Messages are written to txt file with the reference of global variables that were assigned local values.
+<br>
+
+Overall coding structure is consist of persudo code, functions, global variable and local variable. With persudo code outline main functionalities of the project, we are able to use the rest to form chunks of the script and after all, complete full script to compose data summarization.
