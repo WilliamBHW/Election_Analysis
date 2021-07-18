@@ -60,8 +60,7 @@ The analysis of election show that:
   - Diana DeGette , who recieved 73.8% of vote and 272,892 number of votes.
 
 ## Election-Audit Summary
-The source folder and code are in the same location so that it is easy to read files from sources and make manipulations. Destination folder ("analysis") can be created in the same location which will compose destination files in assigned folder.
-This script uses universal/global variables to take record of elections data such as `candidate_options`, `county_options`, `candidate_votes`, `county_votes` etc. In the script, these variables are commonly used in the following criterias:
+The source folder and code are in the same location so that it is easy to read files from sources and make manipulations. Destination folder ("analysis") can be created in the same location which will compose destination files in assigned folder. This script uses universal/global variables to take record of elections data such as `candidate_options`, `county_options`, `candidate_votes`, `county_votes` etc. In the script, these variables are commonly used in the following criterias:
 - Record candidate names & county names
 - Record total votes
 - Record candidate votes & county turnout
@@ -69,9 +68,13 @@ This script uses universal/global variables to take record of elections data suc
 - Record relative percentages
 
 #### Global Variables
-![image of code]()
+![files to save/load](https://github.com/WilliamBHW/Election_Analysis/blob/main/Resources/file_to_change.png)
+![global](https://github.com/WilliamBHW/Election_Analysis/blob/main/Resources/county_setup.png)
+These global variables can be refered to different locations by simply chasnging its pointer.
 
 <br>
 
-Local variables are used in for loop and conditional statements such that they are calculating data that will be saved into global records. (ex. `county_name`, `cvote`, `cvote_percent`)
+Local variables are used in for loop and conditional statements such that they are calculating data that will be saved into global records. (ex. `candidate_name`, `county_name`, `cvote`, `cvote_percent`)
 #### Local Variables
+![calculation](https://github.com/WilliamBHW/Election_Analysis/blob/main/Resources/county_main.png)
+![messages](https://github.com/WilliamBHW/Election_Analysis/blob/main/Resources/modify.png)
