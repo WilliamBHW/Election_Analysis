@@ -70,4 +70,4 @@ Local variables are used in for loop and conditional statements such that they a
 These local variables inside functions are responsed for making calculations and record result of calculation, they are flexible with any calculation and assignment. For instance, `cvote_percent` is being assigned a formula which could be modified anyway user want it to be. Messages are written to txt file with the reference of global variables that were assigned local values.
 <br>
 
-Overall coding structure is consist of persudo code, functions, global variable and local variable. With persudo code outline main functionalities of the project, we are able to use the rest to form chunks of the script and after all, complete full script to compose data summarization.
+Overall coding structure is consist of pseudocode, functions, global variable and local variable. With pseudocode outlining main functionalities of the project, we are able to use the rest to form chunks of the script and after all, complete full script to compose data summarization.
