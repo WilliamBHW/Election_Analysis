@@ -47,7 +47,7 @@ The analysis of election show that:
   - Denver recieved 82.8% of the turnout and 306,055 number of turnouts.
   - Arapahoe recieved 6.7% of the turnout and 24,801 number of turnouts.
 - The county with largest turnout was:
-  - Denver , who recieved 82.8% of the turnout and 306,055 number of turnouts.
+  - Denver , which recieved 82.8% of the turnout and 306,055 number of turnouts.
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
