@@ -37,13 +37,13 @@ Pseudo means "fake," so pseudocode is essentially fake code. Pseudocode is an in
 
 ## Summary
 The analysis of election show that:
-- There were "x" votes cast in the election
+- There were 369,711 votes cast in the election
 - The counties were:
-  - C1
-  - C2
-  - C3
+  - Jefferson
+  - Denver
+  - Arapahoe
 - The county result were:
-  - C1 recieved "x%" of the turnout and "y" number of turnouts.
+  - Jefferson recieved ***10.5%*** of the turnout and ***38,855*** number of turnouts.
   - C2 recieved "x%" of the turnout and "y" number of turnouts.
   - C3 recieved "x%" of the turnout and "y" number of turnouts.
 - The largest county was:
