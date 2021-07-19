@@ -52,7 +52,7 @@ The source folder and code are in the same location so that it is easy to read f
 - Record candidate names & county names
 - Record total votes
 - Record candidate votes & county turnout
-- Record realative winning candidate & county
+- Record relative winning candidate & county
 - Record relative percentages
 
 #### Global Variables
